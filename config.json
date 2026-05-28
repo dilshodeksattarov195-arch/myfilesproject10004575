@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfender",
+        "uuid": 24128550,
+        "checksum": "c9gdt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
